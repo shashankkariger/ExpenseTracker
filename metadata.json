@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker (Java OOP)",
+  "description": "Complete engineering college mini-project demonstrating Java Object-Oriented Programming (OOP) concepts with interactive Swing desktop simulator, full Java source code package, SQLite database, and comprehensive project report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
